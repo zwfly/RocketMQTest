@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RocketMQTest.iml" filepath="$PROJECT_DIR$/RocketMQTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RocketMQUITest/RocketMQUITest.iml" filepath="$PROJECT_DIR$/../RocketMQUITest/RocketMQUITest.iml" />
+    </modules>
+  </component>
+</project>
